@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Ziyad
 #### I am GitHub Readme Generator's creator
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyadAlHaarbi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziyad-Almuzainy&show_icons=true&theme=radical)
 
 I’m Ziyad from Saudi Arabia. I graduated from TVTC with a Bachelor's degree in Electrical Engineering, and I do content about Data Science.
-I also enjoy create some projects by python. 
+I also enjoy creating some projects with Python.
 
 - *You can reach me:*
 
